@@ -1,0 +1,2 @@
+class ChangeTopic < ApplicationRecord
+end
